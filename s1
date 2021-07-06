@@ -5,6 +5,10 @@ Vlans:
     id: 10
   blue:
     id: 20
+  pink:
+    id: 30
+  blue: 
+    id: 40
 ports:
  1: [ 10 ]
  2: [ 20 ] 
